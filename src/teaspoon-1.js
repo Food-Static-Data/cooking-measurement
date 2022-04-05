@@ -1,8 +1,8 @@
+let teaspoon = {
+      americanStandart: null,
+      americanStandartOunces: null,
+      volume: "5 milliliters",
+      weight: null
+};
 
-
-     let teaspoon1 = {
-           americanStandart: null,
-           americanStandartOunces: null,
-           volume: "5 milliliters",
-           weight: null
-         };
+export default teaspoon;
