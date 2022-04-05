@@ -22,3 +22,6 @@
 ├── 
 └── .gitignore
 ```
+
+
+Images and more details you can grab from this repository: https://github.com/ChickenKyiv/awesome-food-measurements-information
