@@ -55,6 +55,6 @@ Images and more details you can grab from this repository: https://github.com/Ch
 
 ### Extended version with measurements
 
-https://www.foodstandards.gov.au/science/monitoringnutrients/ausnut/foodmeasures/Pages/default.aspx
-https://github.com/Food-Static-Data/data/blob/master/8b.%20AUSNUT%202011-13%20AHS%20Food%20Nutrient%20Database.xls
-https://www.foodstandards.gov.au/science/monitoringnutrients/ausnut/foodmeasures/Pages/development-food-measures-data.aspx
+- https://www.foodstandards.gov.au/science/monitoringnutrients/ausnut/foodmeasures/Pages/default.aspx
+- https://github.com/Food-Static-Data/data/blob/master/8b.%20AUSNUT%202011-13%20AHS%20Food%20Nutrient%20Database.xls
+- https://www.foodstandards.gov.au/science/monitoringnutrients/ausnut/foodmeasures/Pages/development-food-measures-data.aspx
